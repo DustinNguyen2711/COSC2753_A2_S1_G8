@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Data & Models
+data_cleaned/
+models/
+outputs/
+
+# Logs
+*.log
+*.txt
+invalid_images_*.txt
+
+# Environment
+.env
+.venv
+.DS_Store
